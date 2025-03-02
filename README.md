@@ -1,1 +1,1 @@
-For now, I'm using this account to experiment and leanr with github
+For now, I'm using this account to experiment and learn with github
